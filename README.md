@@ -13,11 +13,17 @@ Displays ranked resumes with simalarity scores.
 
 resume_screening_app/ 
 │── .venv/
+
 │── app.py
+
 │── requirements.txt
+
 ├── resume_ranking.ipynb
+
 │── data/
+
 │ ├── sample_resume.pdf │── README.md
+
 │── .gitignore
 
 🛠️ Installation & Setup
