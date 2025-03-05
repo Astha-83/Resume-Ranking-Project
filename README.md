@@ -11,7 +11,8 @@ Displays ranked resumes with simalarity scores.
 
 📂 Folder Structure
 
-resume_screening_app/ │── .venv/
+resume_screening_app/ 
+│── .venv/
 │── app.py
 │── requirements.txt
 ├── resume_ranking.ipynb
