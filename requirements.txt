@@ -1,0 +1,6 @@
+All these libraries are used under this Projects :-
+stresmlit
+PyPDF2
+pandas
+scikit-learn
+numpy
